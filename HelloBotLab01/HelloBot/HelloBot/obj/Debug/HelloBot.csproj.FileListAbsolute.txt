@@ -1,0 +1,53 @@
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Bot Application.dll.config
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Bot Application.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Bot Application.pdb
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Autofac.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Chronic.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Newtonsoft.Json.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\System.Net.Http.Formatting.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\System.Web.Http.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\System.Web.Http.WebHost.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Autofac.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\Newtonsoft.Json.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\System.Net.Http.Formatting.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\System.Web.Http.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\System.Web.Http.WebHost.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\obj\Debug\HelloBot.csprojResolveAssemblyReference.cache
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\obj\Debug\HelloBot.csproj.CoreCompileInputs.cache
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\obj\Debug\Bot Application.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\HelloBot\HelloBot\HelloBot\obj\Debug\Bot Application.pdb

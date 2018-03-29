@@ -1,0 +1,63 @@
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Bot Application.dll.config
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Bot Application.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Bot Application.pdb
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Autofac.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Chronic.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.Bot.Builder.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.Bot.Connector.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Newtonsoft.Json.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\System.Net.Http.Formatting.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\System.Web.Http.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\System.Web.Http.WebHost.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Autofac.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.Bot.Builder.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.Bot.Connector.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\Newtonsoft.Json.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\System.Net.Http.Formatting.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\System.Web.Http.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\System.Web.Http.WebHost.xml
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\obj\Debug\Lab03CognitiveServices.csprojResolveAssemblyReference.cache
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\obj\Debug\Lab03CognitiveServices.csproj.CoreCompileInputs.cache
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\obj\Debug\Bot Application.dll
+C:\Users\krojas\Documents\GitHub Codes\Bots\Lab03CognitiveServices\Lab03CognitiveServices\obj\Debug\Bot Application.pdb
